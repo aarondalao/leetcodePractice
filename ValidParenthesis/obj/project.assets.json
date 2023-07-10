@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/aaron/.nuget/packages/": {}
+    "C:\\Users\\Test\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aaron/Practice/CSharp/LeetCodePractice/ValidParenthesis/ValidParenthesis.csproj",
+      "projectUniqueName": "C:\\Users\\Test\\test\\leetcodePractice\\ValidParenthesis\\ValidParenthesis.csproj",
       "projectName": "ValidParenthesis",
-      "projectPath": "/home/aaron/Practice/CSharp/LeetCodePractice/ValidParenthesis/ValidParenthesis.csproj",
-      "packagesPath": "/home/aaron/.nuget/packages/",
-      "outputPath": "/home/aaron/Practice/CSharp/LeetCodePractice/ValidParenthesis/obj/",
+      "projectPath": "C:\\Users\\Test\\test\\leetcodePractice\\ValidParenthesis\\ValidParenthesis.csproj",
+      "packagesPath": "C:\\Users\\Test\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Test\\test\\leetcodePractice\\ValidParenthesis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/aaron/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Test\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

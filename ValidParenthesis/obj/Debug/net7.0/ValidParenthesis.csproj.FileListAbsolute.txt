@@ -1,0 +1,15 @@
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\bin\Debug\net7.0\ValidParenthesis.exe
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\bin\Debug\net7.0\ValidParenthesis.deps.json
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\bin\Debug\net7.0\ValidParenthesis.runtimeconfig.json
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\bin\Debug\net7.0\ValidParenthesis.dll
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\bin\Debug\net7.0\ValidParenthesis.pdb
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.csproj.AssemblyReference.cache
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.AssemblyInfoInputs.cache
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.AssemblyInfo.cs
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.dll
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\obj\Debug\net7.0\refint\ValidParenthesis.dll
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.pdb
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\obj\Debug\net7.0\ValidParenthesis.genruntimeconfig.cache
+C:\Users\Test\test\leetcodePractice\ValidParenthesis\obj\Debug\net7.0\ref\ValidParenthesis.dll
