@@ -1,0 +1,15 @@
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/bin/Debug/net7.0/LongestCommonPrefix
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/bin/Debug/net7.0/LongestCommonPrefix.deps.json
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/bin/Debug/net7.0/LongestCommonPrefix.runtimeconfig.json
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/bin/Debug/net7.0/LongestCommonPrefix.dll
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/bin/Debug/net7.0/LongestCommonPrefix.pdb
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.csproj.AssemblyReference.cache
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.AssemblyInfoInputs.cache
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.AssemblyInfo.cs
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.csproj.CoreCompileInputs.cache
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.dll
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/obj/Debug/net7.0/refint/LongestCommonPrefix.dll
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.pdb
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/obj/Debug/net7.0/LongestCommonPrefix.genruntimeconfig.cache
+/home/aaron/Practice/CSharp/LeetCodePractice/LongestCommonPrefix/obj/Debug/net7.0/ref/LongestCommonPrefix.dll
